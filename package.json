@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-socialvk",
+  "version": "1.0.1",
+  "description": "Cordova plugin for VKontakte sharing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ajaxy/cordova-plugin-socialvk.git"
+  },
+  "keywords": [
+    "cordova",
+    "phonegap",
+    "vkontakte",
+    "sharing"
+  ],
+  "author": "DrMoriarty",
+  "license": "Apache 2.0 License",
+  "bugs": {
+    "url": "https://github.com/Ajaxy/cordova-plugin-socialvk/issues"
+  },
+  "homepage": "https://github.com/Ajaxy/cordova-plugin-socialvk"
+}
